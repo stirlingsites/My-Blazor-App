@@ -28,3 +28,4 @@ This application can be deployed to [Azure Static Web Apps](https://docs.microso
 ![screenshot](https://github.com/stirlingsites/My-Blazor-App/blob/main/BlazorTodoSS.jpg)
 Link to balzor app: https://gray-stone-0212f8f10.azurestaticapps.net/
 Credits to this tutorial: https://devblogs.microsoft.com/aspnet/azure-static-web-apps-with-blazor/
+I created a blazor app with that help of tutorials that has a todo list, counter, IPO, fetch weather data, an a home page.
